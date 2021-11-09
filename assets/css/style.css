@@ -42,6 +42,10 @@ body {
 	scroll-behavior: smooth;
 }
 
+.nav-logo {
+	width: 75%;
+}
+
 
 #load{
     position: fixed;
@@ -56,45 +60,6 @@ body {
     background-color: #000000;
 }
 
-.modal-content {
-	background-color: #212121;
-}
-
-.modal-header {
-	color: #f0f0f0;
-	text-align: left;
-}
-
-.modal-header button {
-	background: none;
-	color: #f0f0f0;
-	border: none;
-	padding: 0;
-	font: inherit;
-	font-size: 1.5em;
-	align-items: center;
-	cursor: pointer;
-	outline: inherit;
-	float: right;
-}
-
-
-.modal-header button:hover {
-	background: none;
-	color: #e66f69;
-	border: none;
-	padding: 0;
-	font: inherit;
-	font-size: 1.5em;
-	align-items: center;
-	cursor: pointer;
-	outline: inherit;
-	float: right;
-}
-
-.modal-header h4 {
-	display: inline;
-}
 
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Gothic', 'Arial Narrow', Arial, sans-serif;
@@ -374,6 +339,49 @@ header{
     padding: 60px 0px 60px 0px;
     text-align: center;
 }
+
+
+.modal-content {
+	background-color: #212121;
+}
+
+.modal-header {
+	color: #f0f0f0;
+	text-align: left;
+}
+
+.modal-header button {
+	background: none;
+	color: #f0f0f0;
+	border: none;
+	padding: 0;
+	font: inherit;
+	font-size: 1.5em;
+	align-items: center;
+	cursor: pointer;
+	outline: inherit;
+	float: right;
+}
+
+
+.modal-header button:hover {
+	background: none;
+	color: #e66f69;
+	border: none;
+	padding: 0;
+	font: inherit;
+	font-size: 1.5em;
+	align-items: center;
+	cursor: pointer;
+	outline: inherit;
+	float: right;
+}
+
+.modal-header h4 {
+	display: inline;
+}
+
+
 
 /* ///////////////////////////////////////////////////////////////////// 
 //  06 - Technical skills 
