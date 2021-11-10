@@ -56,3 +56,10 @@ h1 {
     opacity: 0.1;
   }
 }
+
+
+@media all and (max-width: 768px) {
+    .moon {
+        display: none;
+    }
+}
