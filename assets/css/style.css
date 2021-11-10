@@ -791,7 +791,7 @@ footer {
 	display: flex;
 	text-align: center;
 	justify-content: space-around;
-	padding: 0 40px;
+	padding: 10px 40px 0 40px;
 }
 
 
