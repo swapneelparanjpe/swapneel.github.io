@@ -179,9 +179,9 @@ document.onreadystatechange = function () {
 }
 
 function hover(element) {
-  element.setAttribute('src', 'assets/images/logo-hover.png');
+  element.setAttribute('src', 'assets/images/logo-hover.svg');
 }
 
 function unhover(element) {
-  element.setAttribute('src', 'assets/images/logo.png');
+  element.setAttribute('src', 'assets/images/logo.svg');
 }

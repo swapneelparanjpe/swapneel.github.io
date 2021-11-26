@@ -415,7 +415,7 @@ header{
 /////////////////////////////////////////////////////////////////////*/
 
 #technical-skills {
-	background-image: url(../images/bg-techstack.png);
+	background-image: url(../images/bg-techstack.svg);
 	padding: 80px 0px;
     color: #f0f0f0;
 	text-align: center;
@@ -583,7 +583,7 @@ header{
 /////////////////////////////////////////////////////////////////////*/
 
 #experience {
-    background-image: url(../images/bg-experience.png);
+    background-image: url(../images/bg-experience.svg);
 	padding: 80px 0px;
     color: #f0f0f0;
 	text-align: center;
@@ -775,22 +775,22 @@ header{
     background-position: 0px -50px;
 }
 .email{
-	background-image: url(../images/email.png);
+	background-image: url(../images/email.svg);
 }
 .linkedin{
-	background-image: url(../images/linkedin.png);
+	background-image: url(../images/linkedin.svg);
 }
 .github{
-	background-image: url(../images/github.png);
+	background-image: url(../images/github.svg);
 }
 .instagram{
-	background-image: url(../images/instagram.png);
+	background-image: url(../images/instagram.svg);
 }
 .facebook{
-	background-image: url(../images/facebook.png);
+	background-image: url(../images/facebook.svg);
 }
 .twitter{
-	background-image: url(../images/twitter.png);
+	background-image: url(../images/twitter.svg);
 }
 
 
