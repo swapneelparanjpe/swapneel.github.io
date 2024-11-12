@@ -758,7 +758,7 @@ header{
     margin: 0 auto;
     margin-bottom: 30px;
 }
-.scoialinks {
+.social-links {
     list-style: none;
     text-align: center;
     padding: 0;
@@ -775,7 +775,7 @@ header{
 }
 
 .social-icons a:hover {
-    background-position: 0px -50px;
+    background-position: 0px -50px !important;
 }
 .email{
 	background-image: url(../images/email.svg);
